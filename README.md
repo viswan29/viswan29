@@ -2,7 +2,7 @@
 
  <br />
  <a href="https://twitter.com/Viswan29">
-      <img align="left" alt="Viswanath Thatha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Viswanath Thatha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  </a>
  <a href="https://www.linkedin.com/in/viswanath-thatha-67ab8460/">
   <img align="left" alt="Jatin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,9 +13,10 @@
 <a href="https://t.me/Viswan29">
   <img align="left" alt="Jatin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+
  &nbsp;
 
-A Passionate Full Stack Developer ⚡ and a Engineering Undergrad in VJTI 🎓. I love building cool stuffs and exploring new technologies. Interested in Cloud computing ☁️, Blockchain,  DevOps, Open Source 📜, Innovation and Automation 🤖
+A Passionate Python developer with experience in Machine Learning ⚡ and a Technology Analyst at Infosys. I love building cool stuffs and exploring new technologies. Interested in  DevOps, Open Source 📜, Chat bots, Machine Learning, Innovation and Automation 🤖
 
 - 🔭 I’m currently working on Python automation, Machine Learning 
 - 🌱 I’m currently learning Full Stack web development, building chat bots, Advanced Machine Learning 
