@@ -16,10 +16,10 @@
 
  &nbsp;
 
-A Passionate Python developer with experience in Machine Learning ⚡ and a Technology Analyst at Infosys. I love building cool stuffs and exploring new technologies. Interested in  DevOps, Open Source 📜, Chat bots, Machine Learning, Innovation and Automation 🤖
+A Passionate Data professional with python along with experience in Data Engineering, Data Analytics, Machine Learning ⚡ and working as senior data engineer at Alation. I love building cool stuffs with data and love exploring data. Interested in  Data Engineering, Big Data, Data Analytics, Machine Learning, Innovation and Automation 🤖
 
-- 🔭 I’m currently working on Python automation, Machine Learning 
-- 🌱 I’m currently learning Full Stack web development, building chat bots, Advanced Machine Learning 
+- 🔭 I’m currently working on Data Engineering building ETL, Dimension modelling, python automation, Machine Learning 
+- 🌱 I’m currently exploring big data eco-system
 - 👯 I’m looking to collaborate on Python
 - 💬 Ask me about anything I'm happy to help
 - 📫 How to reach me: viswanath.thatha@gmail.com
