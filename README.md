@@ -26,8 +26,8 @@ A Passionate Data professional with python along with experience in Data Enginee
 
 Tech Stack: 
 
-Programming Languages - Python (Requests, Pandas, numpy, streamlit, sftp, snowflake), Spark <br/>
-Database/ Data warehouse - MySQL, PostgreSQL, Snowflake, BigQuery<br/>
-Cloud Technologies - AWS (Lambda, EC2, EMR, GLUE, SNS, EKS, Athena, S3 etc), GCP (Dataflow, BigQuery, compose etc)<br/>
-ETL Tools - Airflow, DBT (for transformation), No code ETL - Fivetran and Stitch (For extraction and Loading)<br/>
-CI/CD - Git<br/>
+- Programming Languages - Python (Requests, Pandas, numpy, streamlit, sftp, snowflake), Spark <br/>
+- Database/ Data warehouse - MySQL, PostgreSQL, Snowflake, BigQuery<br/>
+- Cloud Technologies - AWS (Lambda, EC2, EMR, GLUE, SNS, EKS, Athena, S3 etc), GCP (Dataflow, BigQuery, compose etc)<br/>
+- ETL Tools - Airflow, DBT (for transformation), No code ETL - Fivetran and Stitch (For extraction and Loading)<br/>
+- CI/CD - Git<br/>
