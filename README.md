@@ -26,9 +26,8 @@ A Passionate Data professional with python along with experience in Data Enginee
 
 Tech Stack: 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Programming Languages - Python (Requests, Pandas, numpy, streamlit, sftp, snowflake), Spark
+Database/ Data warehouse - MySQL, PostgreSQL, Snowflake, BigQuery
+Cloud Technologies - AWS (Lambda, EC2, EMR, GLUE, SNS, EKS, Athena, S3 etc), GCP (Dataflow, BigQuery, compose etc)
+ETL Tools - Airflow, DBT (for transformation), No code ETL - Fivetran and Stitch (For extraction and Loading)
+CI/CD - Git
